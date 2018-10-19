@@ -1,0 +1,202 @@
+{
+  "main": {
+    "name":"Sasha Demyanik",
+    "occupation":"Software Engineer, mobile app developer, web developer",
+    "description":"I develop C++ and Qt applications by day and create mobile apps/web solutions by night!",
+    "image":"profilepic.jpg",
+    "bio":"I am a Software Engineer II at Graphic Products, Inc who is skilled at designing, developing and deploying software using C++ and Qt.",
+    "email": "name@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"",
+      "city":"Ridgefield",
+      "state":"WA",
+      "zip": "98642"
+    },
+    "website": "http://www.github.com/Riein",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Washington State University Vancouver",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"May 2014",
+        "description":"Courses: Mobile App Development."
+      }
+    ],
+    "work":[
+      {
+        "company":"Graphic Products",
+        "title":"Software Engineer II ",
+        "years":"June 2014 - Present",
+        "description":"Released label editing program to customers across multiple devices using C++ and Qt. Decreased developer testing time by 40% through creation of an automated testing framework for a label editing application. Delivered a Windows printer driver alongside new company product. Identified and implemented new features to existing software suite to improve usability and functionality based on customer feedback."
+      },
+      {
+        "company":"WaferTech, LLC",
+        "title":"IT Intern",
+        "years":"May 2012 - August 2012",
+        "description":"Migrated company SharePoint pages for multiple departments from SharePoint 2007 to SharePoint 2010. Audited internal permissions system in Lotus to improve efficiency of user permission approval."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"75%"
+      },
+      {
+        "name":"Qt",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"Android",
+        "level":"40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"React.js",
+        "level":"25%"
+      },
+      {
+        "name":"iOS/Swift",
+        "level":"20%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coffee Cup",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
