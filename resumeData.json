@@ -5,7 +5,7 @@
     "description":"I develop C++ and Qt applications by day and create mobile apps/web solutions by night!",
     "image":"profilepic.jpg",
     "bio":"I am a Software Engineer II at Graphic Products, Inc who is skilled at designing, developing and deploying software using C++ and Qt.",
-    "email": "name@gmail.com",
+    "email": "sasha.demyanik@gmail.com",
     "phone": "555-555-5555",
     "address":{
       "street":"",
@@ -13,8 +13,8 @@
       "state":"WA",
       "zip": "98642"
     },
-    "website": "http://www.github.com/Riein",
-    "resumedownload":"http://something.com",
+    "website": "https://riein.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1NtuHNr-iyDt4qOAa3uuYazbFo_BOYL65/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -34,7 +34,7 @@
         "school":"Washington State University Vancouver",
         "degree":"Bachelor of Science in Computer Science",
         "graduated":"May 2014",
-        "description":"Courses: Mobile App Development."
+        "description":"Courses: Mobile App Development, Data Structures, Design and Analysis of Algorithms, Intro to Database Systems."
       }
     ],
     "work":[
@@ -99,7 +99,7 @@
         "description":"A simple Android app that lists and displays Christian worship songs in English, Ukrainian and Russian along with the corresponding guitar chords. Uses a SQLite database to store the songs.",
         "category":"Mobile App Development",
         "tags":"Mobile, App, Android",
-        "image":"coffee.jpg",
+        "image":"thensings.png",
         "url":"https://github.com/Riein/Worship_Songs",
         "modal":"#modal-01"
       },
@@ -108,7 +108,7 @@
         "description":"This is a basic HTML/CSS website for a small, local automotive business. This project has 4 pages including an index, about, services and contact page.",
         "category":"Web Development",
         "tags":"HTML, CSS, Web Development",
-        "image":"console.jpg",
+        "image":"paulsmotor.png",
         "url":"http://www.paulsmotor.com/",
         "modal":"#modal-02"
       },
@@ -117,7 +117,7 @@
         "description":"A simple Android application I created to better understand the process of publishing an Android app. The app creates an array of scenes for the user and is randomly displayed each time the hat is tapped.",
         "category":"Mobile App Development",
         "tags":"Mobile, App, Android",
-        "image":"judah.jpg",
+        "image":"scenes.png",
         "url":"https://play.google.com/store/apps/details?id=app.novaci.com.scenesfromahat&hl=en",
         "modal":"#modal-03"
       },
@@ -126,7 +126,7 @@
         "description":"Pick Me Up is an iOS mobile application designed to find non-professional sporting events within a user's area and allows users to join or create sport events. Users may also search for a specific event or view websites of popular professional sites through the app.",
         "category":"Mobile App Development",
         "tags":"Mobile, App, iOS",
-        "image":"into-the-light.jpg",
+        "image":"pickmeup.png",
         "url":"https://github.com/mpessa/CS420Project",
         "modal":"#modal-04"
       }
