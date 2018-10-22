@@ -1,7 +1,7 @@
 {
   "name": "resumeviewer",
   "homepage": "https://riein.github.io",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "jquery": "^3.3.1",
