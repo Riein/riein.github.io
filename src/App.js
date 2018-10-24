@@ -19,7 +19,7 @@ class App extends Component {
 
   getResumeData() {
     $.ajax({
-      url:'riein.github.io/resumeData.json',
+      url:'https://raw.githubusercontent.com/Riein/riein.github.io/source/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data) {
