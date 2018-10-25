@@ -4,8 +4,8 @@
     "occupation":"Software Engineer, mobile app developer, web developer",
     "description":"I develop C++ and Qt applications by day and create mobile apps/web solutions by night!",
     "image":"profilepic.jpg",
-    "bio":"I am a Software Engineer II at Graphic Products, Inc who is skilled at designing, developing and deploying software using C++ and Qt.",
-    "email": "name@gmail.com",
+    "bio":"Skilled Software Engineer with 4 years of professional and hands-on experience in all levels of software development including designing, implementing, testing, releasing and maintaining products. Constantly building new skills, developing existing talents, and striving for success; dedicated to improving stakeholder results.",
+    "email": "sasha.demyanik@gmail.com",
     "phone": "555-555-5555",
     "address":{
       "street":"",
@@ -13,43 +13,18 @@
       "state":"WA",
       "zip": "98642"
     },
-    "website": "http://www.github.com/Riein",
-    "resumedownload":"http://something.com",
+    "website": "https://riein.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1NtuHNr-iyDt4qOAa3uuYazbFo_BOYL65/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"https://www.linkedin.com/in/sashademyanik/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com",
+        "url":"http://github.com/Riein",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -59,15 +34,21 @@
         "school":"Washington State University Vancouver",
         "degree":"Bachelor of Science in Computer Science",
         "graduated":"May 2014",
-        "description":"Courses: Mobile App Development."
+        "description":"Courses: Mobile App Development, Data Structures, Design and Analysis of Algorithms, Intro to Database Systems."
       }
     ],
     "work":[
       {
+        "company":"Downstream",
+        "title":"Interactive Developer",
+        "years":"August 2018 - Present",
+        "description":"Worked with software team to design and implement customer facing immersive environments.\n\n Interpreted client's technical requirements to craft solutions for customer needs. \n\nTechnologies: C++, XML, Git."
+      },
+      {
         "company":"Graphic Products",
         "title":"Software Engineer II ",
-        "years":"June 2014 - Present",
-        "description":"Released label editing program to customers across multiple devices using C++ and Qt. Decreased developer testing time by 40% through creation of an automated testing framework for a label editing application. Delivered a Windows printer driver alongside new company product. Identified and implemented new features to existing software suite to improve usability and functionality based on customer feedback."
+        "years":"June 2014 - July 2018",
+        "description":"Collaborated on multiple aspects of the design and development cycle in both the cross-functional team dynamic and as an individual. Created six tools and applications for an upcoming software release alongside the new printer utilizing touch screen calibration, Linux based updater, text editor, and PDF viewer. Delivered four large-scale customer projects; developed two label editing applications for touch-enabled portable printers which were then released in full desktop applications. Successfully decreased developer testing time by 40% by creating an automated testing framework using JavaScript to unit test in-progress software. \n\nTechnologies: C++, Qt, JavaScript, Git, Jenkins, BugGenie, Bash, Python and Linux."
       },
       {
         "company":"WaferTech, LLC",
@@ -79,123 +60,87 @@
     "skills":[
       {
         "name":"C++",
-        "level":"75%"
+        "experience":"4"
       },
       {
         "name":"Qt",
-        "level":"85%"
+        "experience":"4"
       },
       {
         "name":"Java",
-        "level":"65%"
+        "experience":"2"
       },
       {
         "name":"Android",
-        "level":"40%"
+        "experience":"1"
       },
       {
         "name":"JavaScript",
-        "level":"50%"
+        "experience":"1.5"
       },
       {
         "name":"React.js",
-        "level":"25%"
+        "experience":"1"
       },
       {
         "name":"iOS/Swift",
-        "level":"20%"
+        "experience":"0.5"
       },
       {
         "name":"SQL",
-        "level":"50%"
+        "experience":"1"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Coffee Cup",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Illustrator",
-        "tags":"Branding, Web Design",
-        "image":"coffee.jpg",
-        "url":"http://port1.com",
+        "title":"Then Sings My Soul",
+        "description":"A simple Android app that lists and displays Christian worship songs in English, Ukrainian and Russian along with the corresponding guitar chords. Uses a SQLite database to store the songs.",
+        "category":"Mobile App Development",
+        "tags":"Mobile, App, Android",
+        "image":"thensings.png",
+        "url":"https://github.com/Riein/Worship_Songs",
         "modal":"#modal-01"
       },
       {
-        "title":"Console",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Design",
-        "tags":"Branding, Web Development",
-        "image":"console.jpg",
-        "url":"http://port2.com",
+        "title":"Paul's Motor Inc Website",
+        "description":"This is a basic HTML/CSS website for a small, local automotive business. This project has 4 pages including an index, about, services and contact page.",
+        "category":"Web Development",
+        "tags":"HTML, CSS, Web Development",
+        "image":"paulsmotor.png",
+        "url":"http://www.paulsmotor.com/",
         "modal":"#modal-02"
       },
       {
-        "title":"Judah",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Development",
-        "tags":"Branding, Web Programming",
-        "image":"judah.jpg",
-        "url":"http://port3.com",
+        "title":"Scenes From A Hat Android App",
+        "description":"A simple Android application I created to better understand the process of publishing an Android app. The app creates an array of scenes for the user and is randomly displayed each time the hat is tapped.",
+        "category":"Mobile App Development",
+        "tags":"Mobile, App, Android",
+        "image":"scenes.png",
+        "url":"https://play.google.com/store/apps/details?id=app.novaci.com.scenesfromahat&hl=en",
         "modal":"#modal-03"
       },
       {
-        "title":"Into The Light",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Design",
-        "image":"into-the-light.jpg",
-        "url":"http://port4.com",
+        "title":"Pick Me Up Sports App",
+        "description":"Pick Me Up is an iOS mobile application designed to find non-professional sporting events within a user's area and allows users to join or create sport events. Users may also search for a specific event or view websites of popular professional sites through the app.",
+        "category":"Mobile App Development",
+        "tags":"Mobile, App, iOS",
+        "image":"pickmeup.png",
+        "url":"https://github.com/mpessa/CS420Project",
         "modal":"#modal-04"
-      },
-      {
-        "title":"Farmer Boy",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Branding",
-        "tags":"Branding, Web Design",
-        "image":"farmerboy.jpg",
-        "url":"http://port5.com",
-        "modal":"#modal-05"
-      },
-      {
-        "title":"Girl",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Graphic Design",
-        "image":"girl.jpg",
-        "url":"http://port6.com",
-        "modal":"#modal-06"
-      },
-      {
-        "title":"Origami",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Illustration",
-        "tags":"Branding, Illustration",
-        "image":"origami.jpg",
-        "url":"http://port7.com",
-        "modal":"#modal-07"
-      },
-      {
-        "title":"Retrocam",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Development",
-        "tags":"Photography",
-        "image":"retrocam.jpg",
-        "url":"http://port8.com",
-        "modal":"#modal-08"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "user":"John Doe"
+        "text":"He's a pretty nice guy.",
+        "user":"Lucas Wiseman"
       },
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "user":"Steve Smith"
+        "text":"Looks at those mad coding skills.",
+        "user":"Abraham Lincoln (probably)"
       }
     ]
   }
