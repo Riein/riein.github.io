@@ -99,7 +99,7 @@
         "description":"A simple Android app that lists and displays Christian worship songs in English, Ukrainian and Russian along with the corresponding guitar chords. Uses a SQLite database to store the songs.",
         "category":"Mobile App Development",
         "tags":"Mobile, App, Android",
-        "image":"thensings.png",
+        "image":"thensings.jpg",
         "url":"https://github.com/Riein/Worship_Songs",
         "modal":"#modal-01"
       },
@@ -108,7 +108,7 @@
         "description":"This is a basic HTML/CSS website for a small, local automotive business. This project has 4 pages including an index, about, services and contact page.",
         "category":"Web Development",
         "tags":"HTML, CSS, Web Development",
-        "image":"paulsmotor.png",
+        "image":"paulsmotor.jpg",
         "url":"http://www.paulsmotor.com/",
         "modal":"#modal-02"
       },
@@ -117,7 +117,7 @@
         "description":"A simple Android application I created to better understand the process of publishing an Android app. The app creates an array of scenes for the user and is randomly displayed each time the hat is tapped.",
         "category":"Mobile App Development",
         "tags":"Mobile, App, Android",
-        "image":"scenes.png",
+        "image":"scenes.jpg",
         "url":"https://play.google.com/store/apps/details?id=app.novaci.com.scenesfromahat&hl=en",
         "modal":"#modal-03"
       },
@@ -126,7 +126,7 @@
         "description":"Pick Me Up is an iOS mobile application designed to find non-professional sporting events within a user's area and allows users to join or create sport events. Users may also search for a specific event or view websites of popular professional sites through the app.",
         "category":"Mobile App Development",
         "tags":"Mobile, App, iOS",
-        "image":"pickmeup.png",
+        "image":"pickmeup.jpg",
         "url":"https://github.com/mpessa/CS420Project",
         "modal":"#modal-04"
       }

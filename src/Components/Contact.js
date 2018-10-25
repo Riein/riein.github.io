@@ -21,9 +21,7 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-                  <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                  voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                  <p className="lead">If you would like to find out more information about how I can help your organization grow or have other questions about my work, please leave your contact information below and I will respond as quickly as possible.
                   </p>
             </div>
          </div>
@@ -74,13 +72,13 @@ class Contact extends Component {
 
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   {/*<h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state} {zip} <br />
 						   <span>{phone}</span>
-					   </p>
+             </p>*/}
 
 				   </div>
         </aside>
